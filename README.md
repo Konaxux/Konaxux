@@ -1,5 +1,5 @@
 ## 🌕 About Konaxux
-Hi, I'm a engineer. 🐣
+Hi, I'm a c# engineer. 🐣
 
 ## 🌱 my skills
 
