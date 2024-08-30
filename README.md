@@ -10,7 +10,7 @@ Hi, I'm a engineer. 🐣
 <img alt="my skills front" src="https://skillicons.dev/icons?theme=dark&perline=8&i=php,mysql" />
 
 #### 💻 Other, Tools
-<img alt="my skills other" src="https://skillicons.dev/icons?theme=dark&perline=8&i=c,cpp,cs,java,py,unity,git,github" />
+<img alt="my skills other" src="https://skillicons.dev/icons?theme=dark&perline=8&i=c,cpp,cs,arduino,apple,git,github" />
 
 #### ✏️ Studying
 <img alt="my skills other" src="https://skillicons.dev/icons?theme=dark&perline=8&i=php,js" />
